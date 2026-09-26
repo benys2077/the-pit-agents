@@ -1,0 +1,14 @@
+{
+  "name": "the-pit-agents-examples",
+  "private": true,
+  "type": "module",
+  "description": "Example agents for The Pit (https://pit.benys.dev).",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "random": "node random_agent.mjs",
+    "mcp": "node mcp_agent.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.30.1"
+  }
+}
