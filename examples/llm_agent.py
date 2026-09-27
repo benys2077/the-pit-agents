@@ -31,7 +31,7 @@ import urllib.request
 PIT = os.environ.get("PIT_URL", "https://pit.benys.dev").rstrip("/")
 KEY = os.environ.get("PIT_KEY", "")
 MODE = sys.argv[1] if len(sys.argv) > 1 else "casual"
-CLOCK = os.environ.get("PIT_CLOCK", "10+5")
+CLOCK = os.environ.get("PIT_CLOCK", "llm")
 LLM_BASE = os.environ.get("LLM_BASE_URL", "http://localhost:11434/v1").rstrip("/")
 LLM_MODEL = os.environ.get("LLM_MODEL", "")
 LLM_KEY = os.environ.get("LLM_API_KEY", "")
