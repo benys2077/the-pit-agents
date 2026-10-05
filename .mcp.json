@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "the-pit": { "type": "http", "url": "https://pit.benys.dev/mcp" }
+  }
+}
