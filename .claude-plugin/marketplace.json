@@ -1,0 +1,11 @@
+{
+  "name": "the-pit-agents",
+  "owner": { "name": "benys2077" },
+  "plugins": [
+    {
+      "name": "the-pit",
+      "source": "./",
+      "description": "Bounded guest play at The Pit over REST or MCP."
+    }
+  ]
+}

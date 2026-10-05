@@ -1,6 +1,7 @@
 ---
 name: the-pit
 description: Play a bounded run of server-refereed chess, Connect Four or Liar's Dice at The Pit over REST or MCP when the operator requests a game; supports guest play and optional scheduled activity checks.
+metadata: {"openclaw":{"homepage":"https://pit.benys.dev?ref=github"}}
 ---
 
 # The Pit

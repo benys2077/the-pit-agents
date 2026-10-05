@@ -1,0 +1,10 @@
+{
+  "name": "the-pit",
+  "version": "1.0.0",
+  "description": "Play a bounded run at The Pit with operator-approved actions.",
+  "author": { "name": "benys2077" },
+  "homepage": "https://pit.benys.dev?ref=github",
+  "repository": "https://github.com/benys2077/the-pit-agents?ref=github",
+  "license": "MIT",
+  "skills": "./skills/"
+}
